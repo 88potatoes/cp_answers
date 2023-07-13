@@ -3,6 +3,7 @@
 #define ll long long
 using namespace std;
 
+
 template <typename T>
 void dumparr(vector<T> a) {
     for (T x : a) {
